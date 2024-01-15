@@ -1,0 +1,188 @@
+========== HOME ==========
+.home__greeting
+Hello, I'm
+
+.home__name
+Vanshika Aggarwal
+
+.home__education
+Frontend Developer
+
+.home__social-link
+https://www.linkedin.com/in/vanshika-aggarwal-690482229/
+https://github.com/Vanshika-Aggarwal
+https://leetcode.com/thyud/
+
+.home__scroll-name
+Scroll Down
+
+========== ABOUT ==========
+.section__subtitle | .section__title
+My Intro
+About Me
+
+.about__title | .about__subtitle
+Experience
+Virtual internships
+
+Completed
+Projects
+
+Support
+Online 24/7
+
+.about__description
+I'm Vanshika Aggarwal, and I'm on never ending journey as a enthusiastic learner and software developer 👩‍💻
+Passionate about coding, learning, and solving complex problems. Experienced in DSA, web development. Committed to pushing boundaries and making a positive impact.
+========== SKILLS ==========	
+.section__subtitle | .section__title
+My abilities
+My Experience
+
+.skills__title
+Frontend developer
+
+
+.skills__name | .skills__level
+HTML
+Basic
+
+CSS
+Advanced
+
+JavaScript
+Intermediate
+
+Bootstrap
+Basic
+
+Git
+Intermediate
+
+React
+Basic
+
+PHP
+Basic
+
+Node Js
+Basic
+
+Python
+Intermediate
+
+MySQL
+Intermediate
+
+Firebase
+Basic
+
+========== SERVICES ==========
+.section__subtitle | .section__title
+My Services
+What I Offer
+
+.services__title
+Product <br> Designer
+
+Ui/Ux <br> Designer
+
+Visual <br> Designer
+
+.services__modal-description
+Service with more than 3 years of experience. 
+Providing quality work to clients and companies.
+
+.services__modal-info
+I develop the user interface.
+
+Web page development.
+
+I create ux element interactions.
+
+I position your company brand.
+
+Design and mockups of products for companies.
+
+
+========== WORK  ==========
+.section__subtitle | .section__title
+My Portfolio
+Recent Works
+
+.work__item
+All
+Web
+Movil
+Design
+
+.work__title
+Web design
+
+App movil
+
+Brand design
+
+Web design
+
+App movil
+
+========== TESTIMONIALS ==========
+.section__subtitle | .section__title
+My clients say
+Testimonial
+
+.testimonial__name
+Jhon Doe
+
+Paula Vusy
+
+Sara Cill
+
+.testimonial__description
+A really good job, all aspects of the project were 
+followed step by step and with good results.
+
+
+========== CONTACT ==========
+.section__subtitle | .section__title
+Get in touch
+Contact Me
+
+.contact__title
+Talk to me
+
+Write me your project
+
+.contact__card-title | .contact__card-data
+Email
+user@gmail.com
+
+Whatsapp
+999-888-777
+
+Messenger
+user.fb123
+
+.contact__button
+mailto:vanshika9084@gmail.com
+
+https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+
+========== FOOTER ==========
+.footer__title
+Vanshika
+
+.footer__link
+About
+
+Projects
+
+Testimonials
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+
